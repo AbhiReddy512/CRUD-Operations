@@ -1,0 +1,13 @@
+.App{
+  display: contents;
+  text-align: center;
+ 
+}
+.main{
+  display: flex;
+  align-items: center;
+  background-color: rgb(205, 224, 224);
+}
+.element{
+  margin: 10px;
+}

@@ -1,0 +1,30 @@
+.button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    gap: 5px;
+
+}
+
+.employee {
+    background-color: rgb(222, 219, 224);
+    border: "1px solid #ccc";
+    padding: "10px";
+    margin: "10px 0";
+    border-Radius: "5px";
+    display: "flex";
+    align-Items: "center";
+    justify-Content: "space-between";
+}
+.employee>div{
+    display: "flex"; align-items: "center"; 
+}
+
+.employee>img {
+    width: "50px";
+    height: "50px";
+    border-radius: "50%";
+    margin-Right: "10px";
+}
